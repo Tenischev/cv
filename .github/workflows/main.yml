@@ -37,6 +37,8 @@ jobs:
       
       - name: Commit
         run: |
+          git config user.email "tenischev.semen@gmail.com"
+          git config user.name "CI bot"
           git add cv/*
           git commit -m "Update CV generation"
           
