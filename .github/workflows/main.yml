@@ -31,4 +31,4 @@ jobs:
         run: latex2html cv.tex
 
       - name: Check content
-        run: ls -al
+        run: ls cv -al
