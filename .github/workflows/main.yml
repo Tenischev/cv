@@ -24,8 +24,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Install make4ht
-        run: sudo apt-get install texlive-extra-utils
+        run: sudo apt-get install latex2html
 
       # Runs a set of commands using the runners shell
       - name: Run tex to html
-        run: make4ht cv.tex
+        run: latex2html cv.tex
