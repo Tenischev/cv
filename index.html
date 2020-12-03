@@ -1,10 +1,37 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Tenishchev Semen CV</title>
+    <style>
+        html {
+            height: 100%
+        }
+        body {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            display: table;
+        }
+        .header_bar {
+            display: table-row;
+        }
+        .iframe_container {
+            height: 100%;
+            display: table-cell;
+        }
+        iframe {
+            height: 100%;
+            width: 100%;
+            display: block;
+        }
+    </style>
 </head>
 <body>
-<embed src="https://tenischev.github.io/cv/cv.pdf" width="100%"/>
+
+<object data="https://tenischev.github.io/cv/cv.pdf" type="application/pdf" height="100%" width="100%">
+    <iframe src="https://docs.google.com/viewer?url=https://tenischev.github.io/cv/cv.pdf&amp;embedded=true"
+            height="100%" width="100%"></iframe>
+</object>
+
 </body>
 </html>
