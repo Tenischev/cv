@@ -24,12 +24,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Compile LateX
+      - name: Github Action for LaTeX
         # You may pin to the exact commit or the version.
-        # uses: vinay0410/tectonic-action@b3138021657a3cdb3823f3980be054ca89e86d81
-        uses: vinay0410/tectonic-action@v1.1.2
+        # uses: xu-cheng/latex-action@dacf2cfbdd5fd768c2298cbdc9e105bd9ed7f293
+        uses: xu-cheng/latex-action@v2
         with:
-          # Path of Tex File
-          tex_path: cv.tex
-          # String stating whether to push output PDF, PDF will only be pushed in case of "yes"
-          push: yes
+          # The root LaTeX file to be compiled
+          root_file: cv.tex
+          
+      - name: Commit
+        run: |
+          git config user.email "tenischev.semen@gmail.com"
+          git config user.name "CI bot"
+          git add *
+          git commit -m "Update generated CV"
+          
+      - name: Push
+        run: git push
