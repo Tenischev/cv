@@ -264,10 +264,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -418,7 +414,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel/txtbabel.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel-english/english.ldf
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/babel-english/english.ldf
