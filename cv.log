@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.1)  14 JUN 2023 18:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.1)  12 SEP 2023 11:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **cv.tex
 (./cv.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-22>
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -41,7 +41,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \aftertitleunit=\skip52
 \ttl@plus=\dimen141
 \ttl@minus=\dimen142
-\ttl@toksa=\toks16
+\ttl@toksa=\toks17
 \titlewidth=\dimen143
 \titlewidthlast=\dimen144
 \titlewidthfirst=\dimen145
@@ -66,22 +66,22 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 (/opt/texlive/texdir/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks17
-\verbatim@line=\toks18
+\every@verbatim=\toks18
+\verbatim@line=\toks19
 \verbatim@in@stream=\read2
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks19
+\enitkv@toks@=\toks20
 \labelindent=\skip53
 \enit@outerparindent=\dimen146
-\enit@toks=\toks20
+\enit@toks=\toks21
 \enit@inbox=\box52
 \enit@count@id=\count193
 \enitdp@description=\count194
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-05-16 v7.00y Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -102,7 +102,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks22
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
@@ -123,7 +123,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-05-16 v2.51 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -145,7 +145,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \Hy@pagecounter=\count198
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-05-16 v7.00y Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -155,7 +155,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 \Hy@SavedSpaceFactor=\count199
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-05-16 v7.00y Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -204,7 +204,7 @@ package with kernel methods
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2023-05-16 v7.00y Hyperref driver for pdfTeX
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
@@ -239,7 +239,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@orf=\skip63
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/05/11 v3.89 The Babel package
+Package: babel 2023/08/29 v3.93 The Babel package
 \babel@savecnt=\count273
 \U@D=\dimen151
 \l@unhyphenated=\language87
@@ -269,7 +269,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen152
 \ar@mcellbox=\box53
 \extrarowheight=\dimen153
-\NC@list=\toks22
+\NC@list=\toks23
 \extratabsurround=\skip64
 \backup@length=\skip65
 \ar@cellbox=\box54
@@ -280,7 +280,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@target=\dimen157
 \TX@delta=\dimen158
 \TX@cols=\count275
-\TX@ftn=\toks23
+\TX@ftn=\toks24
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
@@ -315,12 +315,12 @@ LaTeX Font Info:    ... okay on input line 98.
 \scratchbox=\box56
 \nofMPsegments=\count278
 \nofMParguments=\count279
-\everyMPshowfont=\toks24
+\everyMPshowfont=\toks25
 \MPscratchCnt=\count280
 \MPscratchDim=\dimen160
 \MPnumerator=\count281
 \makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks25
+\everyMPtoPDFconversion=\toks26
 )
 Package hyperref Info: Link coloring OFF on input line 98.
  (./cv.out) (./cv.out)
@@ -362,6 +362,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [2] (./cv.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -369,13 +374,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 326DEF54D70BE377A80C41B85CF23EB9;741.
  ) 
 Here is how much of TeX's memory you used:
- 10693 strings out of 476038
- 169228 string characters out of 5792173
- 1884785 words of memory out of 5000000
- 31004 multiletter control sequences out of 15000+600000
- 518177 words of font info for 55 fonts, out of 8000000 for 9000
+ 10598 strings out of 474934
+ 165448 string characters out of 5761814
+ 1951807 words of memory out of 5000000
+ 32018 multiletter control sequences out of 15000+600000
+ 563959 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,271b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,271b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/texliv
@@ -383,7 +388,7 @@ e/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/texd
 ir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></opt/texlive/texdir/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (2 pages, 107066 bytes).
+Output written on cv.pdf (2 pages, 107857 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
